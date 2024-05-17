@@ -9,4 +9,4 @@ The experiments were carried out with R.
 
 - online_algorithms contains all the functions and algorithms use throughout the paper: ONS, gradient descent, BOA and SurvONS.
 - MC_simulations contains the data simulation and the parameter estimation of all the online algorithms. 
-- MC_results contains the graphs that shows the results of the simulation section of the paper.
+- MC_results contains the graphs that show the results of the simulation section of the paper.
